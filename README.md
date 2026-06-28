@@ -1,5 +1,41 @@
-# 💫 About Me:
-I am currently working on recruitment platform.
+# 💫 About Me
+
+I'm a Full Stack Developer passionate about building AI-powered products that solve real-world problems.
+
+Currently, I work as a Full Stack Developer on an AI-native EdTech platform, helping build tools that support GCSE students through intelligent assessment, personalized feedback, and adaptive learning experiences.
+
+Alongside my work in education, I enjoy exploring agentic AI systems, multi-agent workflows, and the practical application of Large Language Models in production environments.
+
+### 🚀 Current Focus
+
+* Agentic AI and autonomous workflows
+* LLM-powered assessment and feedback systems
+* Recruitment intelligence and company understanding
+* Knowledge graphs and organizational intelligence
+* Full-stack application development
+
+### 🛠️ Tech Stack
+
+**Development**
+TypeScript • Next.js • React • PHP • Node.js • Prisma • AWS • PostgreSQL • MongoDB
+
+**AI & Agentic Systems**
+OpenAI • Anthropic • Gemini • Google ADK • Deep Agents • LangGraph • LiveKit • MCP • Vector Databases • RAG Architectures
+
+### 🌱 Currently Exploring
+
+* Multi-agent orchestration
+* AI-assisted recruitment
+* Company intelligence systems
+* Educational AI at scale
+* Open-source AI infrastructure
+
+### 🎯 Personal Projects
+
+Outside of my day job, I build and experiment with AI products focused on education, recruitment intelligence, and agentic workflows. I'm particularly interested in systems that can understand organizations, automate complex decision-making processes, and help people learn more effectively.
+
+I enjoy turning ideas into products and exploring how AI can create meaningful real-world impact.
+
 
 
 # 💻 Tech Stack:
